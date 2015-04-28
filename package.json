@@ -1,0 +1,22 @@
+{
+  "name": "@karboh/link-delegate",
+  "version": "0.0.1",
+  "description": "Anchor tag click delegation / negotiation for client-side routing. This component   makes it easy to implement application-wide push-state link handling without   manually performing a router dispatch.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "component-delegate": "*",
+    "@karboh/url": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karlbohlmark/link-delegate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karlbohlmark/link-delegate/issues"
+  },
+  "homepage": "https://github.com/karlbohlmark/link-delegate"
+}
